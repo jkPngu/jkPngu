@@ -9,6 +9,6 @@ See my creations below.
 A private music & game bot, a Music system.
 
 
-# OMG... 😳 | Support me!
+## Support me.
 click it! and get updated on my creations!
 [PnguCreations.](https://github.com/jkPngu)
