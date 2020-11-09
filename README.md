@@ -2,7 +2,7 @@
 
 I like creating stuff.
 The language I'm really into is JavaScript.
-I wanna be a polyglot someday tho...<br>
+I wanna be a animator someday tho...<br>
 See my creations below. 
 
 ## Aki.
