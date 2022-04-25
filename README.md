@@ -1,5 +1,5 @@
 
-##### hey!
+##### Hey!
 I'm a highschooler interested in backend development. 
 
 My current interest include Rust, C, C++, Assembly, and more.
