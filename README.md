@@ -2,7 +2,7 @@
 ##### Hey!
 I'm a highschooler interested in backend development. 
 
-My current interest include Rust, C, C++, Assembly, and more.
+My current interest include C, C++, Assembly, and more.
 
 ```text
 From: 25 April 2022 - To: 25 April 2023
